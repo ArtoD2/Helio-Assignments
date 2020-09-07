@@ -1,0 +1,43 @@
+<movies>
+    <movie>
+        <title>The Avengers</title>
+        <releadDate>05/04/2020</releaseDate>
+            <director>
+                <name>Joss Whedon</name>
+            </director>
+            <writers>
+                <writer>
+                    <name>Joss Whedon</name>
+                </writer>
+                <writer>
+                    <name>Zak Penn</name>
+                </writer>   
+            </writers>
+            <actors>
+                <actor>
+                    <name>Chris Evans</name>
+                    <role>Captain America</role>     
+                </actor>
+                <actor>
+                    <name>Robert Downey Jr</name>
+                    <role>Iron Man</role> 
+                </actor>
+                <actor>
+                    <name>Chris Hemsworth</name>
+                    <role>Thor<</role>
+                </actor>
+                <actor>
+                    <name>Mark Ruffalo</name>
+                    <role>Hulk</role> 
+                </actor>
+                <actor>
+                    <name>Scarlett Johansson</name>
+                    <role>Black Widow</role> 
+                </actor>
+                <actor>
+                    <name>Scarlett Johansson</name>
+                    <role>Black Widow</role> 
+                </actors>
+            </actors>          
+    </movie>
+</movies>
