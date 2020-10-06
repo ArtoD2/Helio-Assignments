@@ -3,5 +3,4 @@ function changeName(){
     let output = document.getElementById("badge_name")
 
     output.innerHTML=input.value
-
 }

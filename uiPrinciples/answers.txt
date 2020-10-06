@@ -1,0 +1,22 @@
+1. A User Interface is what the user is shown and
+given access to on a website. It's where humans 
+and computers interact.
+
+2. A UI is what you see on a webpage while the UX
+is what the user can do or does on the webpage.
+
+3. A Mock-up is a sketch that represents the way the 
+website will look.
+    1. Low Fidelity: typically sketched designs 
+    without user interaction.
+    2. High Fidelity: computer based designs that
+    allow user interaction.
+
+4. Mobile First design is a design philosophy that works
+by creating the interface on the smallest (mobile) screens 
+and working up to larger monitors.
+
+5. The User should be in control of the UI
+
+6. Typically like in React components, it's reusable
+lines of code. 
