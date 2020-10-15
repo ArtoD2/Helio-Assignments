@@ -1,0 +1,33 @@
+1. An accessible structure of data
+    1. Databases can hold a very large
+    record of data
+
+2. Databases can store
+    1. application logs
+    2. IP addresses and other configuration details
+    3. System information (batches info, etc)
+
+3. Types of Databases  
+    1. Centralized database: a centralized location accessible by different users from different locations
+    2. Distributed database: a moving database
+    3. Personal database: a database only available to a local group
+    4. End-user database: a database designed for an end user
+    5. Commercial database: paid versions of huge databases for user assistance
+    6. NoSQL database: databases with flexible schemas(attributes and instruction)
+        1. SQL database: Structured Query Language database (standard for relational database)
+    7. Operational database: databases relevant to business and enterprise operations like marketing, HR, etc
+    8. Relational database: categorized by table sets with predefined categories
+    9. Cloud database: databases for virtualized environments
+    10. Object-oriented database: object-oriented programming and relational database
+    11. Graph database: a collection of nodes and edges, node is used to represent an entity and each edge describes the relationship between entities
+
+4. Typically depends on location and what you're storing
+
+5. An emergency report to a higher up about code.
+
+6. The process of converting information or data into a code
+    1. To prevent unauthorized access and to prevent compromising valuable/personal information
+
+7. The data is still there even if it's not visible through the runtime.
+
+8. Online or physical servers
