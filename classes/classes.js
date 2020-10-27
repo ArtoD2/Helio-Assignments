@@ -1,26 +1,27 @@
 class Animal {
-    constructor ();
-    
-    speak () {
-        console.log(sound)
+    constructor(name, sound) {
+        this._name = name;
+        this._sound = sound;
     }
-    sayName () {
-        console.log(name)
+    speak = () => {
+        console.log(this._sound)
+    }
+    sayName = () => {
+        console.log(this._name)
     }
     get name () {
-        return this.name
+        return this._name
     }
     set name (newName) {
-        this.name = newName
+        this._name = newName
     }
 }
 
 class Dog extends Animal {
-    constructor (name, sound)
-
-    obj = {
-        name: "Doggo",
-        sound: "bork"
+    constructor (name, sound) {
+        super(name, sound)
     }
 }
- 
+const dog = new Dog ("Yorkie","Bork")
+dog.sayName()
+dog.speak()
