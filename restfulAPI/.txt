@@ -1,0 +1,26 @@
+
+[ACTION] 
+<PARAMETERS> 
+/PATH {':' denotes Params} 
+RESULT 
+DESCRIPTION 
+Create
+createNew:001 Name: “Arto” PW:nnd48f349
+Helio/Users
+Name: “Arto” PW:nnd48f349
+Creates data
+Read
+Output: 002 Name: “Arto”
+Users
+Name: “Arto”
+Reads data
+Delete
+Delete:003 Name: “Arto” PW:nnd48f349
+Helio/Users
+Name: “Arto” PW:nnd48f349
+Deletes data
+Update
+Update:003 Name: “Arto” PW:nnd48f349
+Helio/Users
+Name: “Arto” PW:nnd48f349
+Update data
